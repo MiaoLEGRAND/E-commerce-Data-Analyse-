@@ -6,3 +6,7 @@ Cette analyse poursuit les objectifs suivants :
   - Analyser le tunnel de conversion end-to-end et identifier les étapes à fort taux d'abandon
   - Comparer les comportements mobile vs desktop pour prioriser les efforts d'optimisation UX
   - Formuler des recommandations concrètes et actionnables pour la direction commerciale
+La base de données Toystore_BDD est une base relationnelle MySQL comprenant plusieurs tables interconnectées couvrant la période de janvier 2012 à mars 2015. L'architecture de données se compose des entités suivantes :
+<img width="563" height="294" alt="image" src="https://github.com/user-attachments/assets/105587d2-e19c-4b5c-a0e8-c6961bec64c7" />
+
+Le jeu de données couvre 473 000 sessions web, 32 000 commandes et 4 produits distincts, sur une période de 3 ans et 3 mois. Les canaux UTM trackés sont : gsearch (Google Search), bsearch (Bing Search), Organiques (trafic non payant) et socialbook (réseaux sociaux).
